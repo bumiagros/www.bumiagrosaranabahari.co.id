@@ -1,0 +1,2 @@
+{"@timestamp":1672594975345,"_document_id":"-We6j53taA-1Aqcz5QDRqQ","action":"public_key.verification_failure","actor":"BUMIAGROS88","created_at":1672594975345,"fingerprint":"SHA256:","key":"","operation_type":"modify","read_only":"false","user":"BUMIAGROS88"}
+{"@timestamp":1672590552970,"_document_id":"N08tGm7dD9WvjeK5wZKwmw","action":"public_key.verification_failure","actor":"BUMIAGROS88","created_at":1672590552970,"fingerprint":"SHA256:","key":"","operation_type":"modify","read_only":"false","user":"BUMIAGROS88"}
